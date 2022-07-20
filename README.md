@@ -4,4 +4,3 @@
 - I'm a front-end developer but, I like back end
 - I`m learning javaScript and typeScript
 - I use react and angular
-- Recently, I am studying Nest Js
