@@ -2,4 +2,3 @@
 
 - Hi! i`m jiwon
 - I`m learning javaScript and typeScript
-- I use react and angular
