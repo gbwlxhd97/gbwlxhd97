@@ -4,7 +4,6 @@
 > 모바일 웹 환경과 웹뷰 환경에서의 개발에 익숙합니다.<br/>
 > 최근에는 PWA를 이용해서 서비스를 개발하고 있습니다.
 ### 🛠 Tech Stacks
-* Frontend Skills :
   - Programming Language: <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></span>
   - Framework: <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></span>
