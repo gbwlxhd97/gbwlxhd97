@@ -10,7 +10,7 @@
 <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/></span>
 
-  - Style: <span><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></span>
+  - Style: <span><img src="https://img.shields.io/badge/SCSS-Preprocessor-CC6699?style=flat-square&logo=Sass&logoColor=white" alt="SCSS Badge"/></span>
 <span><img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/></span>
 
