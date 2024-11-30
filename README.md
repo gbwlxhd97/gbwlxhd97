@@ -1,8 +1,8 @@
 ## 안녕하세요 개발자 이지원입니다.
-> __'교육'__ 도메인의 서비스 회사에서 프론트엔드와 퍼블리싱을 담당하고 있습니다.<br/>
+> 최근까지 __'교육'__ 도메인의 서비스 회사에서 프론트엔드와 퍼블리싱을 담당하였습니다.<br/>
 > 'React','Typescript'를 가장 중점적으로 사용하여 FE 서비스를 개발하고 있습니다.<br/>
 > 모바일 웹 환경과 웹뷰 환경에서의 개발에 익숙합니다.<br/>
-> 최근에는 PWA를 이용해서 서비스를 개발하고 있습니다.
+> 최근에는 Webview를 이용해서 서비스를 개발하고 있습니다.
 ### 🛠 Tech Stacks
   - Programming Language: <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></span>
