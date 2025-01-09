@@ -1,8 +1,9 @@
 ## 안녕하세요 개발자 이지원입니다.
 > 'React','Typescript'를 가장 중점적으로 사용하여 FE 서비스를 개발하고 있습니다.<br/>
 > UX만큼 DX의 중요함을 이해하고 있기에 개발환경을 구축하고 개선하는 것을 좋아합니다.<br/>
+> 프론트엔드뿐만 아니라 다양한 AWS 서비스와 CI/CD 파이프라인 구축 경험이 풍부하며, 개발부터 배포까지의 전체 프로세스에 친숙합니다.<br/>
 > 모바일 웹 환경과 웹뷰 환경에서의 개발에 익숙합니다.<br/>
-> 최근에는 Webview를 이용해서 서비스를 개발하고 있습니다.
+
 ### 🛠 Tech Stacks
   - Programming Language: <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></span>
